@@ -1,0 +1,12 @@
+spring:
+    application:
+        name: teamwork-monitor
+
+server:
+    port: 8764 #启动端口
+
+security:
+    user:
+        name: teamwork
+        password: 123456
+        role: USER

@@ -1,0 +1,9 @@
+spring:
+    application:
+        name: teamwork-ui
+    thymeleaf:
+        mode: LEGACYHTML5
+        cache: false
+
+server:
+    port: 8766
